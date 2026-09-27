@@ -12,4 +12,4 @@ Software Engineering student at **Michigan Technological University** ('28) focu
 
 ### 📫 Connect with Me
 - **Email:** hbbell@mtu.edu
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+
